@@ -1,0 +1,128 @@
+{
+    "Datos_Estudiantes": {
+        "Estudiante_lista": [
+            {
+                "nombre_titulo": "Estudiante 1",
+                "datos_lista": [
+                    "Cédula= 1317233748",
+                    "Nombre= Winter Meza",
+                    "Dirección= Calle Venezuela Av.102",
+                    "Teléfono= 0989500496",
+                    "Correo= wamj@gmail.com",
+                    "Curso= 1ERO",
+                    "Paralelo= A"
+                ]
+            },
+            {
+                "nombre_titulo": "Estudiante 2",
+                "datos_lista": [
+                    "Cédula= 1356432345",
+                    "Nombre= Carla Cedeño",
+                    "Dirección= Calle 106 Av.102",
+                    "Teléfono= 0945342315",
+                    "Correo= carlaccp45@hotmail.com",
+                    "Curso= 2DO",
+                    "Paralelo= B"
+                ]
+            },
+            {
+                "nombre_titulo": "Estudiante 3",
+                "datos_lista": [
+                    "Cédula= 1234237890",
+                    "Nombre= Margarita Durán",
+                    "Dirección= Calle 245 Av. 106",
+                    "Teléfono= 0913467845",
+                    "Correo= mardadi56@gmail.com",
+                    "Curso= 3RO",
+                    "Paralelo= C"
+                ]
+            },
+            {
+                "nombre_titulo": "Estudiante 4",
+                "datos_lista": [
+                    "Cédula= 1323453423",
+                    "Nombre= David Cedeño",
+                    "Dirección= Calle 207 Av. 205",
+                    "Teléfono= 0989456700",
+                    "Correo= cedeñogabriel678@hotmail.com",
+                    "Curso= 4TO",
+                    "Paralelo= A"
+                ]
+            },
+            {
+                "nombre_titulo": "Estudiante 5",
+                "datos_lista": [
+                    "Cédula= 1315342367",
+                    "Nombre= Nicole Mero",
+                    "Dirección= Calle 105 Av. 205",
+                    "Teléfono= 0945231234",
+                    "Correo= nicollmeroc@gmail.com",
+                    "Curso= 5TO",
+                    "Paralelo= B"
+                ]
+            },
+            {
+                "nombre_titulo": "Estudiante 6",
+                "datos_lista": [
+                    "Cédula= 1313567845",
+                    "Nombre= Carlos Paz",
+                    "Dirección= Calle Quito-Rocafuerte Av. 105",
+                    "Teléfono= 0978903489",
+                    "Correo= carlospaz@hotmail.com",
+                    "Curso= 6TO",
+                    "Paralelo= C"
+                ]
+            },
+            {
+                "nombre_titulo": "Estudiante 7",
+                "datos_lista": [
+                    "Cédula= 1512345656",
+                    "Nombre= Gema Mero",
+                    "Dirección= Calle Guayaquil Av.102",
+                    "Teléfono= 0945786798",
+                    "Correo= gemamcz@gmail.com",
+                    "Curso= 7MO",
+                    "Paralelo= A"
+                ]
+            },
+            {
+                "nombre_titulo": "Estudiante 8",
+                "datos_lista": [
+                    "Cédula= 1345237856",
+                    "Nombre= Daniela lópez",
+                    "Dirección= Calle 342 Av. Las Américas",
+                    "Teléfono= 0967453423",
+                    "Correo= danielal56@hotmail.com",
+                    "Curso= 8VO",
+                    "Paralelo= B"
+                ]
+            },
+            {
+                "nombre_titulo": "Estudiante 9",
+                "datos_lista": [
+                    "Cédula= 1345237856",
+                    "Nombre= Anthony Castro",
+                    "Dirección= Calle 107 Av. 9 de Octubre",
+                    "Teléfono= 0912342300",
+                    "Correo= castromaa@gmail.com",
+                    "Curso= 9NO",
+                    "Paralelo= C"
+                ]
+            },
+            {
+                "nombre_titulo": "Estudiante 10",
+                "datos_lista": [
+                    "Cédula= 1345009956",
+                    "Nombre= Pedro Alexis",
+                    "Dirección= Calle Bolívar Av. 108",
+                    "Teléfono= 0956458900",
+                    "Correo= palaciosalexis56@hotmail.com",
+                    "Curso= 10_MO",
+                    "Paralelo= A"
+                ]
+            }
+            
+            
+        ]
+    }
+}

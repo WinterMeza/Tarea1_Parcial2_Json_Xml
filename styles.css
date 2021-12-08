@@ -1,0 +1,55 @@
+* {
+    font-family: sans-serif;
+}
+body{
+  background: #88dae9;
+}
+select {
+    font-size: 20px;
+    align-content: center;
+    color:rgb(0, 0, 0);
+}
+span{
+    color: rgb(47, 0, 255);
+}
+a{
+    color: rgb(47, 0, 255);
+}
+
+a:link {
+    text-decoration: none;
+}
+form{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    padding-top: 10px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+div#listaEstudiantes{
+    display: inline-block;
+    justify-content: center;
+    position: relative;
+    top: -30px;
+    left: 680px;
+    align-items: center;
+    
+    
+}
+div div {
+    color: rgb(36, 35, 35);
+    background-color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    border: solid;
+    margin: 20px;
+    padding: 10px;
+    width: 300px;
+}
+
+

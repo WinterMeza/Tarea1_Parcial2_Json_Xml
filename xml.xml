@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Estudiantes>
+    <estudiante>
+        
+        <cedula dato="Cédula">1317233748</cedula>
+        <nombre dato="Nombre">Winter Meza</nombre>
+        <direccion dato="Dirección">Calle Venezuela Av.102</direccion >
+        <telefono dato="Teléfono">0989500496</telefono>
+        <correo dato="Correo">wamj@gmail.com</correo>
+        <curso dato="Curso">1ERO </curso>
+        <paralelo dato="Paralelo">A</paralelo>
+
+    </estudiante>
+
+    <estudiante>
+        
+        <cedula dato="Cédula">1356432345</cedula>
+        <nombre dato="Nombre">Carla Cedeño</nombre>
+        <direccion dato="Dirección">Calle 106 Av.102"</direccion >
+        <telefono dato="Teléfono">0945342315</telefono>
+        <correo dato="Correo">carlaccp45@hotmail.com</correo>
+        <curso dato="Curso">2DO </curso>
+        <paralelo dato="Paralelo">B</paralelo>
+       
+    </estudiante>
+
+    <estudiante>
+       
+    </estudiante>
+
+    <estudiante>
+       
+        <cedula dato="Cédula">1234237890</cedula>
+        <nombre dato="Nombre">Margarita Durán</nombre>
+        <direccion dato="Dirección">Calle 245 Av. 106</direccion >
+        <telefono dato="Teléfono">0913467845</telefono>
+        <correo dato="Correo">mardadi56@gmail.com</correo>
+        <curso dato="Curso">3RO</curso>
+        <paralelo dato="Paralelo">C</paralelo>
+
+    </estudiante>
+
+    <estudiante>
+       
+        <cedula dato="Cédula">1323453423</cedula>
+        <nombre dato="Nombre">David Cedeño</nombre>
+        <direccion dato="Dirección"> Calle 207 Av. 205</direccion >
+        <telefono dato="Teléfono">0989456700</telefono>
+        <correo dato="Correo">cedeñogabriel678@hotmail.com</correo>
+        <curso dato="Curso">4TO</curso>
+        <paralelo dato="Paralelo">A</paralelo>
+        
+    </estudiante>
+
+    <estudiante>
+       
+        <cedula dato="Cédula">1315342367</cedula>
+        <nombre dato="Nombre">Nicole Mero</nombre>
+        <direccion dato="Dirección">Calle 105 Av. 205</direccion >
+        <telefono dato="Teléfono">0945231234</telefono>
+        <correo dato="Correo">nicollmeroc@gmail.com</correo>
+        <curso dato="Curso">5TO</curso>
+        <paralelo dato="Paralelo">B</paralelo>
+
+    </estudiante>
+    <estudiante>
+       
+        <cedula dato="Cédula">1313567845</cedula>
+        <nombre dato="Nombre">Carlos Paz</nombre>
+        <direccion dato="Dirección">Calle Quito-Rocafuerte Av. 105</direccion >
+        <telefono dato="Teléfono">0978903489</telefono>
+        <correo dato="Correo">carlospaz@hotmail.com</correo>
+        <curso dato="Curso">6TO </curso>
+        <paralelo dato="Paralelo">C</paralelo>
+
+    </estudiante>
+    <estudiante>
+       
+        <cedula dato="Cédula">1512345656</cedula>
+        <nombre dato="Nombre">Gema Mero</nombre>
+        <direccion dato="Dirección">Calle Guayaquil Av.102</direccion >
+        <telefono dato="Teléfono">0945786798</telefono>
+        <correo dato="Correo">gemamcz@gmail.com</correo>
+        <curso dato="Curso">7MO</curso>
+        <paralelo dato="Paralelo">A</paralelo>
+
+    </estudiante>
+    <estudiante>
+       
+        <cedula dato="Cédula">1345237856"</cedula>
+        <nombre dato="Nombre">Daniela lópez</nombre>
+        <direccion dato="Dirección">Calle 342 Av. Las Américas</direccion >
+        <telefono dato="Teléfono">0967453423</telefono>
+        <correo dato="Correo">danielal56@hotmail.com</correo>
+        <curso dato="Curso">8VO</curso>
+        <paralelo dato="Paralelo">B</paralelo>
+
+    </estudiante>
+    <estudiante>
+       
+       <cedula dato="Cédula">1345237856</cedula>
+        <nombre dato="Nombre">Anthony Castro</nombre>
+        <direccion dato="Dirección">Calle 107 Av. 9 de Octubre</direccion >
+        <telefono dato="Teléfono">0912342300</telefono>
+        <correo dato="Correo"> castromaa@gmail.com</correo>
+        <curso dato="Curso">9NO</curso>
+        <paralelo dato="Paralelo">C</paralelo>
+
+    </estudiante>
+     <estudiante>
+       
+       <cedula dato="Cédula">1345009956</cedula>
+        <nombre dato="Nombre">Pedro Alexis</nombre>
+        <direccion dato="Dirección">Calle Bolívar Av. 108</direccion >
+        <telefono dato="Teléfono">0956458900</telefono>
+        <correo dato="Correo">palaciosalexis56@hotmail.com</correo>
+        <curso dato="Curso">10_MO"</curso>
+        <paralelo dato="Paralelo">A</paralelo>
+        
+    </estudiante>
+</Estudiantes>

@@ -1,0 +1,37 @@
+</html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarea1_Parcial2_Lista_Estudiantes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1>Por favor, seleccione un estudiante en el siguiente listado para ver sus datos:</h1>
+    <form action="">
+        <select onchange="mostrar(this.value)">
+            <option value="none">Seleccionar Estudiante</option>
+            <option value="Persona_1">Estudiante 1</option>
+            <option value="Persona_2">Estudiante 2</option>
+            <option value="Persona_3">Estudiante 3</option>
+            <option value="Persona_4">Estudiante 4</option>
+            <option value="Persona_5">Estudiante 5</option>
+            <option value="Persona_6">Estudiante 6</option>
+            <option value="Persona_7">Estudiante 7</option>
+            <option value="Persona_8">Estudiante 8</option>
+            <option value="Persona_9">Estudiante 9</option>
+            <option value="Persona_10">Estudiante 10</option>
+        </select>
+    </form>
+    <br />
+    <h1> Datos en XML <a href="xml.xml"> Click aquí</a> </h1>
+    <h2> <span id="txtInformacion"></span></h2>
+    <div id="listaEstudiantes"> </div>
+</body>
+
+</html>
+<script src="javaScript.js"></script>
